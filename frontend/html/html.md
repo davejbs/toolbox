@@ -6,8 +6,7 @@
 It provides the **structure** and defines elements like headings, paragraphs, links, images, and forms, forming the foundation of every webpage. 
 
 ## 2. HTML File Structure
-```
-html
+```html
 <!DOCTYPE html>
 <html lang="en">
 <head>
