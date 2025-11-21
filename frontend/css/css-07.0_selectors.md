@@ -1,5 +1,5 @@
 
-## CSS Selectors
+# CSS Selectors
 Selectors are used to target specific HTML elements so we can style them. Here are some of the most common ones:
 
 ### Element Selector

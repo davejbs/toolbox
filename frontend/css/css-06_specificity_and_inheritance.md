@@ -8,7 +8,6 @@ CSS stands for **Cascading Style Sheets**.
 Imagine it like a waterfall:  
 styles at the **bottom** have more priority than those at the top.
 
-### ASCII Cascade
 ```
    Highest level (least priority)
             |
