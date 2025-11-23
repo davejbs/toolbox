@@ -46,5 +46,5 @@ footer {
 }
 ```
 
-> [`clear` must be applied **on the element that needs to avoid floats**, not on the floated element.] 
+> `clear` must be applied **on the element that needs to avoid floats**, not on the floated element.
 
