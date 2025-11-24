@@ -29,7 +29,18 @@ img {
 ```
 ---
 
-## 3. Clear
+## 3. Float None 
+This is useful when you want an element to return to the normal document flow, especially in responsive layouts where floats can break the structure on smaller screens.
+
+**Syntax**
+```css
+img {
+  float: none;
+}
+```
+---
+
+## 4. Clear
 
 `clear` tells an element to **ignore previous floats** so it won’t wrap next to them.  
 This is commonly used for elements like footers that must appear **below** floated content.
